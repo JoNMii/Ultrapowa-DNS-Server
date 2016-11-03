@@ -10,7 +10,6 @@ namespace DNS
     {
         static string Title, Ta;
         static Thread T { get; set; }
-        static string packet;
 
         static void Main(string[] args)
         {
